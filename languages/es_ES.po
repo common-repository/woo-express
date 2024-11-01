@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Express\n"
+"POT-Creation-Date: 2018-12-06 00:01-0300\n"
+"PO-Revision-Date: 2018-12-06 00:11-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woo-express.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/archives.php:23 inc/archives.php:36
+msgid "Archives"
+msgstr "Archivo"
+
+#: inc/archives.php:42 inc/products.php:42
+msgid "Ajax add to cart"
+msgstr "Usar AJAX en carrito"
+
+#: inc/archives.php:43 inc/products.php:43
+msgid "Ajax add to cart for single products."
+msgstr "Usar AJAX en carrito de productos individuales"
+
+#: inc/archives.php:48 inc/archives.php:72 inc/checkout.php:47
+#: inc/checkout.php:101 inc/checkout.php:113 inc/checkout.php:125
+#: inc/checkout.php:137 inc/checkout.php:149 inc/products.php:48
+#: inc/products.php:60 inc/products.php:72 inc/products.php:106
+#: woo-express.php:89 woo-express.php:101 woo-express.php:113
+msgid "Yes"
+msgstr "Si"
+
+#: inc/archives.php:49 inc/archives.php:73 inc/checkout.php:48
+#: inc/checkout.php:102 inc/checkout.php:114 inc/checkout.php:126
+#: inc/checkout.php:138 inc/checkout.php:150 inc/products.php:49
+#: inc/products.php:61 inc/products.php:73 inc/products.php:107
+#: woo-express.php:90 woo-express.php:102 woo-express.php:114
+msgid "No"
+msgstr "No"
+
+#: inc/archives.php:66 inc/products.php:66
+msgid "Replace Add to cart text"
+msgstr "Reemplace \"Añadir al carrito\""
+
+#: inc/archives.php:67 inc/products.php:67
+msgid "Replace \"Add to cart\" text."
+msgstr "Reemplace el texto \"Añadir al carrito\"."
+
+#: inc/archives.php:78 inc/products.php:78
+msgid "Replace Add to cart text in"
+msgstr "Reemplazar Añadir al carrito texto en"
+
+#: inc/archives.php:79 inc/products.php:79
+msgid "Replace \"Add to cart\" text in product types."
+msgstr "Reemplazar el texto \"Añadir al carrito\" en estos productos."
+
+#: inc/archives.php:84 inc/products.php:84
+msgid "Simple Products"
+msgstr "Producto simple"
+
+#: inc/archives.php:85 inc/products.php:85
+msgid "Grouped Products"
+msgstr "Productos Agrupados"
+
+#: inc/archives.php:86 inc/products.php:86
+msgid "Virtual Products"
+msgstr "Productos virtuales"
+
+#: inc/archives.php:87 inc/products.php:87
+msgid "Variable Products"
+msgstr "Productos variables"
+
+#: inc/archives.php:88 inc/products.php:88
+msgid "Downloadable Products"
+msgstr "Productos descargables"
+
+#: inc/archives.php:93 inc/products.php:93
+msgid "Replace Add to cart text content"
+msgstr "Reemplazar \"Añadir al carrito\" contenido"
+
+#: inc/archives.php:94 inc/products.php:94
+msgid "Replace \"Add to cart\" text with this text."
+msgstr "Reemplace el texto \"Agregar al carrito\" con este texto."
+
+#: inc/archives.php:97 inc/products.php:97
+msgid "Purchase"
+msgstr "Comprar"
+
+#: inc/checkout.php:22 inc/checkout.php:35 woo-express.php:170
+#: woo-express.php:193
+msgid "Checkout"
+msgstr "Pagos"
+
+#: inc/checkout.php:41
+msgid "Add cart to checkout"
+msgstr "Añadir carrito al checkout"
+
+#: inc/checkout.php:42
+msgid ""
+"Simplifies the checkout process including the shopping cart page inside "
+"checkout."
+msgstr ""
+"Simplifica el proceso de compra, incluyendo la página de carrito dentro "
+"de la pagina de pagos."
+
+#: inc/checkout.php:53
+msgid "Add cart to checkout fields"
+msgstr "Añadir datos al carrito del checkout"
+
+#: inc/checkout.php:54
+msgid "Include this fields inside the checkout cart."
+msgstr "Incluir estos campos dentro del carrito de compras."
+
+#: inc/checkout.php:59 templates/checkout/review-order.php:12
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/checkout.php:60
+msgid "Thumbnail"
+msgstr "Imagen"
+
+#: inc/checkout.php:61
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/checkout.php:62 templates/checkout/review-order.php:21
+#: templates/checkout/review-order.php:66
+msgid "Price"
+msgstr "Precio"
+
+#: inc/checkout.php:63 templates/checkout/review-order.php:24
+#: templates/checkout/review-order.php:71
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: inc/checkout.php:73
+msgid "Remove checkout fields"
+msgstr "Eliminar campos de pago"
+
+#: inc/checkout.php:74
+msgid ""
+"Simplifies the checkout process removing the unnecessary checkout fields."
+msgstr ""
+"Simplifica el proceso de pago eliminando los campos de pago innecesarios."
+
+#: inc/checkout.php:79
+msgid "Country"
+msgstr "País"
+
+#: inc/checkout.php:80
+msgid "State"
+msgstr "Estado"
+
+#: inc/checkout.php:81
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/checkout.php:82
+msgid "Postcode"
+msgstr "Código postal"
+
+#: inc/checkout.php:83
+msgid "Address 1"
+msgstr "Dirección 1"
+
+#: inc/checkout.php:84
+msgid "Address 2"
+msgstr "Dirección 2"
+
+#: inc/checkout.php:85
+msgid "Company"
+msgstr "Compañía"
+
+#: inc/checkout.php:86
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/checkout.php:95
+msgid "Remove checkout order comments"
+msgstr "Eliminar comentarios de orden de pago"
+
+#: inc/checkout.php:96
+msgid "Simplifies the checkout process removing the order notes."
+msgstr "Simplifica el proceso de compra eliminando las notas del pedido."
+
+#: inc/checkout.php:107
+msgid "Remove checkout shipping address"
+msgstr "Eliminar dirección de envío alernativa"
+
+#: inc/checkout.php:108
+msgid "Simplifies the checkout process removing the shipping address."
+msgstr "Simplifica el proceso de pago eliminando la dirección de envío."
+
+#: inc/checkout.php:119
+msgid "Remove checkout coupon form"
+msgstr "Eliminar formulario de cupón de pago"
+
+#: inc/checkout.php:120
+msgid "Simplifies the checkout process removing the coupon form."
+msgstr "Simplifica el proceso de verificación quitar la forma de cupón."
+
+#: inc/checkout.php:131
+msgid "Remove checkout policy text"
+msgstr "Eliminar texto de política de pago"
+
+#: inc/checkout.php:132
+msgid "Simplifies the checkout process removing the policy text."
+msgstr "Simplifica el proceso de pago eliminando el texto de la política."
+
+#: inc/checkout.php:143
+msgid "Remove checkout terms and conditions"
+msgstr "Eliminar las condiciones y términos de pago"
+
+#: inc/checkout.php:144
+msgid "Simplifies the checkout process removing the terms and conditions."
+msgstr ""
+"Simplifica el proceso de pago eliminando los términos y condiciones."
+
+#: inc/checkout.php:208 inc/products.php:164 inc/products.php:175
+msgid "Please reload page."
+msgstr "Por favor, vuelve a cargar la página."
+
+#: inc/products.php:23 inc/products.php:36
+msgid "Products"
+msgstr "Productos"
+
+#: inc/products.php:54
+msgid "Ajax add to cart alert"
+msgstr "Usar AJAX en alerta del carrito"
+
+#: inc/products.php:55
+msgid "Ajax add to cart alert for single products."
+msgstr "Ajax alerta de carrito en productos individuales."
+
+#: inc/products.php:100
+msgid "Add default attributes in variable products"
+msgstr "Añadir atributos predeterminados en la variable productos"
+
+#: inc/products.php:101
+msgid ""
+"Add default attributes in all variable products to avoid disabled Add to "
+"cart button."
+msgstr ""
+"Agregue atributos predeterminados en todos los productos variables para "
+"evitar el botón Agregar al carrito deshabilitado."
+
+#: templates/checkout/review-order.php:18
+msgid "Product"
+msgstr "Producto"
+
+#: templates/checkout/review-order.php:26
+#: templates/checkout/review-order.php:155
+msgid "Total"
+msgstr "Total"
+
+#: templates/checkout/review-order.php:41
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: templates/checkout/review-order.php:103
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woo-express.php:46 woo-express.php:77
+msgid "General"
+msgstr "General"
+
+#: woo-express.php:61
+msgid "Express"
+msgstr "Express"
+
+#: woo-express.php:79
+msgid "Simplifies the checkout process."
+msgstr "Simplifica el proceso de compra."
+
+#: woo-express.php:83
+msgid "Added to cart alert"
+msgstr "Añadido al carro alerta"
+
+#: woo-express.php:84
+msgid "Replace \"View Cart\" alert with direct checkout."
+msgstr "Reemplace la alerta \"Ver carrito\" con la pagina de pagos."
+
+#: woo-express.php:95
+msgid "Added to cart link"
+msgstr "Añadido a la carro enlace"
+
+#: woo-express.php:96
+msgid "Replace \"View Cart\" link with direct checkout."
+msgstr "Reemplace el enlace \"Ver carrito\" con la pagina de pagos."
+
+#: woo-express.php:107
+msgid "Added to cart redirect"
+msgstr "Añadido al carrito redirección"
+
+#: woo-express.php:108
+msgid "Redirect to the checkout page after successful addition."
+msgstr "Redirigir a la página de pagos tras añadir productos con éxito"
+
+#: woo-express.php:170
+msgid "View cart"
+msgstr "Ver carrito"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Express"
+msgstr "WooCommerce Express"
+
+#. Description of the plugin/theme
+msgid "Simplifies the checkout process to improve your sales rate."
+msgstr "Simplifica el proceso de compra para mejorar su tasa de ventas."
+
+#. Author of the plugin/theme
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#. Author URI of the plugin/theme
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
